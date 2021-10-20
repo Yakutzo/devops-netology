@@ -1,5 +1,5 @@
 # devops-netology
-
+1
 Задание описание директив файла /teraform/.gitignore:
 **/.terraform/* 	- Игнорируются директории вместе с содержимым с именем ".terraform" в любой степени вложенности  
 
@@ -14,3 +14,4 @@ override.tf.json	- Игнорируются файлы с именем override.
 *_override.tf.json	- Игнорируются файлы с именем которе оканчивается на _override.tf.json
 .terraformrc		- Игнорируются файлы с именем .terraformrc
 terraform.rc		- Игнорируются файлы с именем terraform.rc	
+new line
